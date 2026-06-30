@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR4e0108/krp/v1/juan/9
+seq: 9
+front:
+  text: 跋刻白沙子
+  hash: sha256:90166809336ad9a97f8d056f01faa74856a3d3b67072f86c448d8fea49288988
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4e0108_SBCK_009-1a}
+body:
+  text: 崍梓是書既因呈諸吾師鶴阿髙子請校焉遂顧崍曰世之梓詩文者多矣然或止乎詞焉而已者也何益哉吾欲維揚士究白沙子之心以逹于濂洛洙泗故命尓梓之苟得其心者衆焉雖廢是梓可也不然又增一贅疣矣嗚呼㑹吾所以欲梓之心而得吾所以不欲梓之意是在二三子崍曰天何言哉四時行焉百物生焉天何言㦲是故其梓也其弗梓也無加損于白沙子也而以詞焉視兹書者其自病也甚矣崍敢不祗若子之訓若將終身焉于是退而跋諸此以告吾揚同志之士是歲孟冬望日江都卞崍謹跋
+  hash: sha256:8ed3d38692cc4ed4a7399b743f54baf5ceb7d2a527dbd6b5367f68333f283870
+metadata:
+  title: 白沙子
+  edition:
+    short: krp
+  base_edition: SBCK
+  date: '2015-09-12 01:29:35.461888'
+  source:
+    repository: kanripo
+    path: KR4e0108/KR4e0108_009.txt
+hash: sha256:8cc87401a09519504b9a273aa1422249d134853bc2a9470b042a4ee40145f4a9

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4e0108/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 氏
+  hash: sha256:55244e1266c79cd05819bf5db57fc3af398fe514b0ee67d633fc18c3887079d9
+metadata:
+  title: 白沙子
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-12 01:29:35.461888'
+  source:
+    repository: kanripo
+    path: KR4e0108/KR4e0108_000.txt
+hash: sha256:d0c34ae4d813a06a410e98e3ba6d2f5b597a1cddaec185aecd4bdad0fee5b48d
